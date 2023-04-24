@@ -139,8 +139,13 @@ https://platzi.com/tutoriales/1767-nodejs-microservicios/6518-creacion-api-con-n
 # Actualización en github
 
 >> git init
+
 >> git status
+
 >> git add .
+
 >> git commit -m 'App MEAN'
+
 >> git remote add origin https://github.com/xandercj/tutorial_mean.git
+
 >> git push -u origin main
